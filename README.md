@@ -7,6 +7,10 @@ Make a navbar with which user can navigate between different pages
 ### Learnings:
 How to use make use of react-router for navigation
 
+
+### [Solution 1](https://github.com/codeclassifiers/react30_8_header/tree/master/solution_1)
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602644746/Blogimages/Screenshot_2020-10-14_at_8.34.53_AM_iekuxc.png" width="462" height="394"/>
+
 ## Available Scripts
 
 In the project directory, you can run:
