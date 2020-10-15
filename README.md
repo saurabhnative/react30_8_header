@@ -38,9 +38,9 @@ How to use make use of react-router for navigation
 ### [Solution 2](https://github.com/akaash11/react30_8_header/tree/master/solution_2)
 
 ## Desktop view
-<img src="https://res.cloudinary.com/akaash/image/upload/v1602749077/Header_desktop_view_txmc8l.png" width="1390" height="257"/>
+<img src="https://res.cloudinary.com/akaash/image/upload/v1602749077/Header_desktop_view_txmc8l.png" width="1090" height="257"/>
 
-## Iphone view
+## Mobile view
 <img src="https://res.cloudinary.com/akaash/image/upload/v1602749077/Header_iphone_view_rgl2e3.png" width="474" height="548"/>
 
 
