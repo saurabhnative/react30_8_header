@@ -1,14 +1,37 @@
 # react30_8_header
+
 Navbar creation using react-router
 
 ### Objective:
+
 Make a navbar with which user can navigate between different pages
 
 ### Learnings:
+
 How to use make use of react-router for navigation
 
+### Resources:
+
+**React Router Docs**
+
+- [Basic setup](https://reactrouter.com/web/example/basic)
+- [Quick Start](https://reactrouter.com/web/guides/quick-start)
+- [Hooks](https://reactrouter.com/web/api/Hooks)
+
+**Set up Guides**
+
+- [Sitepoint](https://www.sitepoint.com/react-router-complete-guide/)
+- [Programming with Mosh](https://programmingwithmosh.com/react/react-router-add-the-power-of-navigation/)
+
+**Tutorials**
+
+- [Nested Tab Routes](https://www.pluralsight.com/guides/how-to-create-nested-tab-routes-with-react-router)
+- [Nav Bar with Styled Components](https://medium.com/dailyjs/how-to-create-a-navigation-bar-with-react-router-styled-components-and-infrastructure-components-e24bee8d31bb)
+
+➜ cd open-so
 
 ### [Solution 1](https://github.com/codeclassifiers/react30_8_header/tree/master/solution_1)
+
 <img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602644746/Blogimages/Screenshot_2020-10-14_at_8.34.53_AM_iekuxc.png" width="462" height="394"/>
 
 ## Available Scripts
