@@ -34,6 +34,16 @@ How to use make use of react-router for navigation
 
 <img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602644746/Blogimages/Screenshot_2020-10-14_at_8.34.53_AM_iekuxc.png" width="462" height="394"/>
 
+
+### [Solution 2](https://github.com/akaash11/react30_8_header/tree/master/solution_2)
+
+## Desktop view
+<img src="https://res.cloudinary.com/akaash/image/upload/v1602749077/Header_desktop_view_txmc8l.png" width="1390" height="257"/>
+
+## Iphone view
+<img src="https://res.cloudinary.com/akaash/image/upload/v1602749077/Header_iphone_view_rgl2e3.png" width="474" height="548"/>
+
+
 ## Available Scripts
 
 In the project directory, you can run:
