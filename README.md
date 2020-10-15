@@ -28,7 +28,7 @@ How to use make use of react-router for navigation
 - [Nested Tab Routes](https://www.pluralsight.com/guides/how-to-create-nested-tab-routes-with-react-router)
 - [Nav Bar with Styled Components](https://medium.com/dailyjs/how-to-create-a-navigation-bar-with-react-router-styled-components-and-infrastructure-components-e24bee8d31bb)
 
-➜ cd open-so
+
 
 ### [Solution 1](https://github.com/codeclassifiers/react30_8_header/tree/master/solution_1)
 
