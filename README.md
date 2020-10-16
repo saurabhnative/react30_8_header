@@ -1,6 +1,9 @@
 # react30_8_header
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Navbar creation using react-router
@@ -31,21 +34,25 @@ How to use make use of react-router for navigation
 - [Nested Tab Routes](https://www.pluralsight.com/guides/how-to-create-nested-tab-routes-with-react-router)
 - [Nav Bar with Styled Components](https://medium.com/dailyjs/how-to-create-a-navigation-bar-with-react-router-styled-components-and-infrastructure-components-e24bee8d31bb)
 
-
-
 ### [Solution 1](https://github.com/codeclassifiers/react30_8_header/tree/master/solution_1)
 
 <img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602644746/Blogimages/Screenshot_2020-10-14_at_8.34.53_AM_iekuxc.png" width="462" height="394"/>
 
-
 ### [Solution 2](https://github.com/akaash11/react30_8_header/tree/master/solution_2)
 
 ## Desktop view
+
 <img src="https://res.cloudinary.com/akaash/image/upload/v1602749077/Header_desktop_view_txmc8l.png" width="1090" height="257"/>
 
 ## Mobile view
+
 <img src="https://res.cloudinary.com/akaash/image/upload/v1602749077/Header_iphone_view_rgl2e3.png" width="474" height="548"/>
 
+### Solution 4
+
+![](navbar-tabs.gif)
+
+## Desktop view
 
 ## Available Scripts
 
@@ -88,6 +95,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
