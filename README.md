@@ -48,9 +48,9 @@ How to use make use of react-router for navigation
 
 <img src="https://res.cloudinary.com/akaash/image/upload/v1602749077/Header_iphone_view_rgl2e3.png" width="474" height="548"/>
 
-### Solution 4
+### [Solution 4](https://github.com/codeclassifiers/react30_8_header/tree/master/solution_4)
 
-![](navbar-tabs.gif)
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602919400/Blogimages/sol4_header_m6jcoq.gif" width="540" height="304"/>
 
 ## Desktop view
 
