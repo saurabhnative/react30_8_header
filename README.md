@@ -21,6 +21,7 @@ How to use make use of react-router for navigation
 - [Basic setup](https://reactrouter.com/web/example/basic)
 - [Quick Start](https://reactrouter.com/web/guides/quick-start)
 - [Hooks](https://reactrouter.com/web/api/Hooks)
+- [Adding Navigation to your React App](https://www.educative.io/blog/react-router-tutorial)
 
 **Set up Guides**
 
