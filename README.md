@@ -1,7 +1,7 @@
 # react30_8_header
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Navbar creation using react-router
@@ -89,6 +89,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/emma-r-slight"><img src="https://avatars0.githubusercontent.com/u/60733989?v=4" width="100px;" alt=""/><br /><sub><b>Emma </b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_8_header/commits?author=emma-r-slight" title="Documentation">📖</a> <a href="https://github.com/codeclassifiers/react30_8_header/commits?author=emma-r-slight" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/akaash11"><img src="https://avatars1.githubusercontent.com/u/27217463?v=4" width="100px;" alt=""/><br /><sub><b>Akaash Trivedi</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_8_header/commits?author=akaash11" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/loganlokku"><img src="https://avatars0.githubusercontent.com/u/50902574?v=4" width="100px;" alt=""/><br /><sub><b>Sooriyakumar Loganathan</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_8_header/commits?author=loganlokku" title="Documentation">📖</a></td>
   </tr>
 </table>
 
